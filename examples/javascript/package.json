@@ -1,0 +1,8 @@
+{
+  "name": "linkedin-company-headcount-tracker-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the LinkedIn Company Headcount Tracker — Employee Growth Alerts Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
